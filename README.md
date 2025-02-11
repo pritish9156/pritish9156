@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pritish Ramesh Pawar and I'm a A passionate Software Developer, from Pune, India.</h2>
+<h2 align="left">Hi 👋! My name is Pritish Ramesh Pawar and I'm a A passionate Java Fullstack Developer, from Pune, India.</h2>
 
 ###
 

@@ -79,7 +79,7 @@
 
 ## 🧑‍💻 Resume
 
-<a href="[https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1gGWce0DQK0RFo5858C2BXGtHnUYRZ43P/view?usp=sharing)">
+<a href="[Resume](https://drive.google.com/file/d/1gGWce0DQK0RFo5858C2BXGtHnUYRZ43P/view?usp=sharing)">
   <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 

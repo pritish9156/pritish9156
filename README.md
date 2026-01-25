@@ -32,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34"/>
 
 </td>
-<td width="35%" align="right">
+<td width="35%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" height="160"/>
 
@@ -79,7 +79,7 @@
 
 ## 🧑‍💻 Resume
 
-<a href="https://drive.google.com/your-resume-link">
+<a href="[https://drive.google.com/your-resume-link](https://drive.google.com/file/d/1gGWce0DQK0RFo5858C2BXGtHnUYRZ43P/view?usp=sharing)">
   <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
@@ -91,7 +91,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:pritishpawar15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

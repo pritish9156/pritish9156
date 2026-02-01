@@ -42,41 +42,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏫 School Management System  
-**Tech:** Java · Spring Boot · React · MySQL  
-✔ Student & Class Management  
-✔ Timetable Creation & Validation  
-✔ PDF Export Feature  
-
-<a href="https://github.com/pritish9156">
-🔗 View Project
-</a>
-
-</td>
-<td width="50%">
-
-### 📅 Timetable Management System  
-**Tech:** Java · SQL · Web Tech  
-✔ Conflict Detection  
-✔ Role-based Access  
-✔ Optimized Scheduling  
-
-<a href="https://github.com/pritish9156">
-🔗 View Project
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧑‍💻 Resume
 
 <a href="https://drive.google.com/file/d/1gGWce0DQK0RFo5858C2BXGtHnUYRZ43P/view?usp=sharing">
